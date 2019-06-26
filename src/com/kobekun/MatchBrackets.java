@@ -3,7 +3,7 @@ package com.kobekun;
 import java.util.Stack;
 
 /**
- * 通过栈的思想
+ * 通过栈stack的思想
  *
  * 匹配字符串类型的括号 使其正确的闭合
  *
